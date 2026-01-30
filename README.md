@@ -32,26 +32,37 @@ I’ve worked across **production environments**, supported **incident response*
 
 ## 🛠️ Tech Stack
 
-### 🧠 Security & Monitoring
+### 🛡️ Security & VAPT
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bots,kali,ubuntu,mint,sqlite,stackoverflow,obsidian" />
 </p>
 
-- Burp Suite · Nmap · Nessus · Metasploit · Wireshark  
-- OWASP ZAP · Splunk (SIEM) · ELK Stack  
+- Docker · Burp Suite · Nmap · Nessus · Metasploit · Wireshark · Hydra · JohnTheRipper
+- MITRE ATT&CK · NIST SP 800-115 · PTES · GDPR · PCI DSS · HIPAA
+- OWASP ZAP · Metasploitable 2 · VulnWeb
 
 ### ☁️ Cloud & Enterprise Security
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
 - AWS (EC2, IAM, S3, Security Groups)
 - Azure AD · Microsoft 365 Security
 - MFA · RBAC · IAM · Device & License Compliance
 
-### ⚙️ Automation & Development
+### 🧠 SOC & Monitoring
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+  
+- Grafana · Prometheus · Splunk · ELK Stack
+
+### ⚙️ DevSecOps & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,git,mysql,postgres,dotnet,firebase,md" />
 </p>
 
-- Python · PowerShell · Bash
-- Docker-based deployments
+- Python · PowerShell · Bash · Git · MySQL · PostGres · VB.NET · Firebase · md
 - Secure scripting & automation
 
 ---
