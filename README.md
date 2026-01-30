@@ -34,7 +34,7 @@ I’ve worked across **production environments**, supported **incident response*
 
 ### 🛡️ Security & VAPT
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bots,kali,ubuntu,mint,sqlite,stackoverflow,obsidian" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bots,kali,ubuntu,mint,sqlite" />
 </p>
 
 - Docker · Burp Suite · Nmap · Nessus · Metasploit · Wireshark · Hydra · JohnTheRipper
