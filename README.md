@@ -13,10 +13,6 @@ I’m a cybersecurity professional with hands-on experience across **security as
 
 I’m actively seeking **security-focused roles** where I can contribute, learn fast, and grow into a stronger security engineer.
 
-<!--
-💼 **Actively open to junior / entry-level cybersecurity or cloud security roles**
--->
-
 🌍 Remote-friendly | Pakistan-based
 
 ---
@@ -96,15 +92,17 @@ Consumer-grade, zero-log secure VPN
 - Designed for non-technical users
 - Safe coding practices
 
-🌱 Currently Learning
+---
+
+## 🌱 Currently Learning
 - Advanced cloud security patterns
 - Detection engineering & purple team workflows
 - Security automation and orchestration
-
+---
 
 ➡️ More details on my **Portfolio** below. 
 
-## 🌐 Let’s Connect
+## 🌐 **Let’s Connect**
 
 - 🌍 **Portfolio:** https://thecybersaviour.github.io/portfolio-website/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/thecybersaviour/
