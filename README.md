@@ -1,32 +1,37 @@
-<h1 align="center">👋 Hi, I'm TheCyberSaviour</h1>
-<h3 align="center">Cybersecurity Specialist | VAPT • SOC • Cloud Security • Secure Automation</h3>
+<h1 align="center">👋 Hi, I’m Muhammad Hassan Shaikh (@TheCyberSaviour)</h1>
+<h3 align="center">Cybersecurity Analyst | Security Assessment • SOC • Cloud Security • Automation</h3>
 
 <p align="center">
-Sharp. Dependable. Hireable. Always learning.
+Sharp · Dependable · Always learning
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I’m a **security-focused IT professional** with hands-on experience in **penetration testing, SOC operations, cloud security, and secure automation**.  
-I enjoy breaking systems *ethically*, fixing them *properly*, and automating what shouldn’t be manual.
+I’m a cybersecurity professional with hands-on experience across **security assessments, SOC operations, vulnerability testing (VAPT), and cloud security**. I enjoy working at the intersection of **offense, defense, and operations** - understanding how systems break, how attacks are detected, and how environments can be hardened and automated.
 
-I’ve worked across **production environments**, supported **incident response**, improved **security posture**, and built **real-world security tools** — not just labs.
+I’m actively seeking **security-focused roles** where I can contribute, learn fast, and grow into a stronger security engineer.
 
-💼 **Actively open to junior / entry-level cybersecurity or cloud security roles**  
+<!--
+💼 **Actively open to junior / entry-level cybersecurity or cloud security roles**
+-->
+
 🌍 Remote-friendly | Pakistan-based
 
 ---
 
 ## 🔍 What I Work On
 
-- 🔴 **VAPT** – Web, Application & Network (OWASP Top 10)
-- 🔵 **SOC Operations** – SIEM monitoring, incident response support
-- ☁️ **Cloud Security** – AWS, IAM, MFA, RBAC, Microsoft 365 Security
-- ⚙️ **Secure Automation** – Python, PowerShell, Bash
-- 🔐 **Privacy & Encryption** – VPNs, password managers, secure comms
-- 📈 **Security Optimization** – Cost, access hygiene, policy enforcement
+🧠 **Security Assessments & VAPT** - Web · Network · Infrastructure Testing with clear Validation and Remediation
+
+🛡️ **SOC & Blue Team Operations** - Log analysis · alert triage · incident response support
+
+☁️ **Cloud & Identity Security** - AWS · IAM · MFA · RBAC · Microsoft 365 security hardening
+
+🤖 **Security Automation** - Python · PowerShell · Bash to reduce manual toil and improve reliability
+
+📊 **Monitoring & Observability** - Metrics · logs · dashboards for secure and resilient systems
 
 ---
 
@@ -41,6 +46,13 @@ I’ve worked across **production environments**, supported **incident response*
 - MITRE ATT&CK · NIST SP 800-115 · PTES · GDPR · PCI DSS · HIPAA
 - OWASP ZAP · Metasploitable 2 · VulnWeb
 
+### 🧠 SOC & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+  
+- Grafana · Prometheus · Splunk · ELK Stack
+
 ### ☁️ Cloud & Enterprise Security
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
@@ -48,14 +60,6 @@ I’ve worked across **production environments**, supported **incident response*
 
 - AWS (EC2, IAM, S3, Security Groups)
 - Azure AD · Microsoft 365 Security
-- MFA · RBAC · IAM · Device & License Compliance
-
-### 🧠 SOC & Monitoring
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
-  
-- Grafana · Prometheus · Splunk · ELK Stack
 
 ### ⚙️ DevSecOps & Automation
 <p>
@@ -65,6 +69,11 @@ I’ve worked across **production environments**, supported **incident response*
 - Python · PowerShell · Bash · Git · MySQL · PostGres · VB.NET · Firebase · md
 - Secure scripting & automation
 
+```bash
+“Security is not about tools alone - it’s about understanding systems, threats, and trade-offs.”
+```
+
+### Infrastructure & Platforms
 ---
 
 ## 🚀 Highlighted Projects
@@ -75,35 +84,27 @@ Consumer-grade, zero-log secure VPN
 - Encryption, authentication, auto-purge
 - Incident Response & Disaster Recovery ready
 
+### 🧪 **SaviourPenTest**
+
+- End-to-end workflow: Recon → Scan → Validate → Report
+- Combines automated tooling with manual analysis
+- Focus on clarity, reproducibility, and actionable reporting
+
 ### 🔑 **SaviourPass**
-Encrypted local password manager (Python GUI)  
+- Encrypted local password manager (Python GUI)  
 - Secure vaulting & encryption
 - Designed for non-technical users
 - Safe coding practices
 
-### 🧪 **SaviourPenTest**
-Automated VAPT framework  
-- Recon → Scan → Exploit → Report
-- Hybrid automated + manual testing
+🌱 Currently Learning
+- Advanced cloud security patterns
+- Detection engineering & purple team workflows
+- Security automation and orchestration
 
-### ✉️ **MailCrypt**
-End-to-end encrypted email communication system  
-- Works with all major email providers
-- Secure by design
 
-➡️ More details on my **portfolio** below.
+➡️ More details on my **Portfolio** below. 
 
----
-<!-->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCyberSaviour&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
--->
----
-
-## 🌐 Portfolio & Contact
+## 🌐 Let’s Connect
 
 - 🌍 **Portfolio:** https://thecybersaviour.github.io/portfolio-website/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/thecybersaviour/
@@ -114,18 +115,3 @@ End-to-end encrypted email communication system
 <p align="center">
 Building secure systems • Learning every day • Open to opportunities 🚀
 </p>
-
-<!--
-**TheCyberSaviour/TheCyberSaviour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
