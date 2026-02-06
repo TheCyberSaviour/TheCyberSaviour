@@ -9,7 +9,8 @@ Sharp · Dependable · Always learning
 
 ## 🛡️ About Me
 
-I’m a cybersecurity professional with hands-on experience across **security assessments, SOC operations, vulnerability testing (VAPT), and cloud security**. I enjoy working at the intersection of **offense, defense, and operations** - understanding how systems break, how attacks are detected, and how environments can be hardened and automated.
+I’m a Cybersecurity Analyst with hands-on experience across **security assessments, vulnerability testing (VAPT), SOC operations, and cloud security**. Experienced in supporting live production environments, identifying and validating security risks, improving enterprise security
+posture, and building secure automation to reduce operational friction. Applies security principles across **assessment, detection, and cloud operations** with a balanced approach combining offensive awareness, defensive discipline, and operational reliability.
 
 I’m actively seeking **security-focused roles** where I can contribute, learn fast, and grow into a stronger security engineer.
 
