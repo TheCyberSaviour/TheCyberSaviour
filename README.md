@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Muhammad Hassan Shaikh (@TheCyberSaviour)</h1>
-<h3 align="center">Cybersecurity Analyst | Security Assessment • SOC • Cloud Security • Automation</h3>
+<h3 align="center">Cybersecurity Analyst | Security Assessment • Cloud • Automation</h3>
 
 <p align="center">
 Sharp · Dependable · Always learning
