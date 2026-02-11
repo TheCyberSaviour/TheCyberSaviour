@@ -105,7 +105,7 @@ Consumer-grade, zero-log secure VPN
 
 ## 🌐 **Let’s Connect**
 
-- 🌍 **Portfolio:** https://thecybersaviour.github.io/portfolio-website/
+- 🌍 **Portfolio:** https://thecybersaviour.github.io/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/thecybersaviour/
 - 📫 **Email:** hassanshoaibmuhammad@gmail.com
 
